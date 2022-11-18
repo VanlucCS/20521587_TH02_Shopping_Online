@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EF1CF197-10E6-4C39-85F5-15409C84858A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>_20521587_TH02_Shopping_Online</RootNamespace>
+    <AssemblyName>20521587_TH02_Shopping_Online</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge, Version=2.2.5.0, Culture=neutral, PublicKeyToken=c1db6ff4eaa06aeb, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.2.2.5\lib\AForge.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video, Version=2.2.5.0, Culture=neutral, PublicKeyToken=cbfb6e07d173c401, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Video.2.2.5\lib\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow, Version=2.2.5.0, Culture=neutral, PublicKeyToken=61ea4348d43881b7, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Video.DirectShow.2.2.5\lib\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1537.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1537.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1537.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1537.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1537.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.ConnectionDlg.AadAuthenticationProvider, Version=16.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.ConnectionDlg.Core, Version=16.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.ConnectionDlg.UI, Version=16.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.ConnectionDlg.VS, Version=16.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.ConnectionDlg.VS.Azure, Version=16.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.Data.Tools.ExceptionMessageBox, Version=16.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.FileSystemTask, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SqlClient, Version=4.6.1.5, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SqlClient.4.8.5\lib\net461\System.Data.SqlClient.dll</HintPath>
+    </Reference>
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="zxing, Version=0.16.8.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZXing.Net.0.16.8\lib\net47\zxing.dll</HintPath>
+    </Reference>
+    <Reference Include="zxing.presentation, Version=0.16.8.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZXing.Net.0.16.8\lib\net47\zxing.presentation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BLL\ProductBLL.cs" />
+    <Compile Include="BLL\PurchasedBLL.cs" />
+    <Compile Include="BLL\ViewedProductsBLL.cs" />
+    <Compile Include="CButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DAL\CartDAL.cs" />
+    <Compile Include="DAL\PurchasedDAL.cs" />
+    <Compile Include="DAL\ShoppingDAL.cs" />
+    <Compile Include="DAL\ViewedProductsDAL.cs" />
+    <Compile Include="DataSet.cs">
+      <DependentUpon>DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Product.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Product.resx</DependentUpon>
+    </Compile>
+    <Compile Include="UI\fHis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\fHis.Designer.cs">
+      <DependentUpon>fHis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\fReportViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\fReportViewer.Designer.cs">
+      <DependentUpon>fReportViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="UI\fCart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\fCart.Designer.cs">
+      <DependentUpon>fCart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\fProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\fProduct.Designer.cs">
+      <DependentUpon>fProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\fPurchase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\fPurchase.Designer.cs">
+      <DependentUpon>fPurchase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\fShopping.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\fShopping.Designer.cs">
+      <DependentUpon>fShopping.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="UI\fHis.resx">
+      <DependentUpon>fHis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\fReportViewer.resx">
+      <DependentUpon>fReportViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Product.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Report.rdlc" />
+    <EmbeddedResource Include="UI\fCart.resx">
+      <DependentUpon>fCart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\fProduct.resx">
+      <DependentUpon>fProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\fPurchase.resx">
+      <DependentUpon>fPurchase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\fShopping.resx">
+      <DependentUpon>fShopping.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DataSet.xsc">
+      <DependentUpon>DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet.xss">
+      <DependentUpon>DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\obnobg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\food.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\house2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f14.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f17.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f19.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shops.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SOFT_GRAIN_HOLORAM_WALLPAPER_04.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addproduct-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coollogo_com-23840129.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trahang.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mienphivch.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hangchinhhang.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shopping-cart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\map.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\research.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rs2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ChinhPhục4KỹNăngTiếngAnhNghe-Nói-Đọc.jpg" />
+    <None Include="Resources\docnhieunhoduocbaonhiue.png" />
+    <None Include="Resources\docvibatkiai.jpg" />
+    <None Include="Resources\doi-ngan-dung-ngu-dai.jpg" />
+    <None Include="Resources\huong-noi-suc-manh-tiem-an-trong-ban-hang-bia.jpg" />
+    <None Include="Resources\kynangdocsachhieuqua.jpg" />
+    <None Include="Resources\kynangdocthongminh.png" />
+    <None Include="Resources\landaulamme.png" />
+    <None Include="Resources\moilanvapngalatruongthanh.jpg" />
+    <None Include="Resources\moilanvapngalatruongthanh.png" />
+    <None Include="Resources\moilanvapngaa.jpg" />
+    <None Include="Resources\renlyentuduyphanbien.jpg" />
+    <None Include="Resources\dacnhantam.png" />
+    <None Include="Resources\thobaymau.jpg" />
+    <None Include="Resources\tuoitredangia.jpg" />
+    <None Include="Resources\suynghinguoc.jpg" />
+    <None Include="Resources\thaotungtamli.jpg" />
+    <None Include="Resources\tobinhyen.jpg" />
+    <None Include="Resources\toiuocminhchuatungduocsinhra.jpg" />
+    <None Include="Resources\history.png" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

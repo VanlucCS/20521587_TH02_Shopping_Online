@@ -1,0 +1,299 @@
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\20521587_TH02_Shopping_Online.exe.config
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\20521587_TH02_Shopping_Online.exe
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\20521587_TH02_Shopping_Online.pdb
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\20521587_TH02_Shopping_Online.csproj.AssemblyReference.cache
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\_20521587_TH02_Shopping_Online.Properties.Resources.resources
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\20521587_TH02_Shopping_Online.csproj.GenerateResource.cache
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\20521587_TH02_Shopping_Online.csproj.CoreCompileInputs.cache
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\20521587_TH02_Shopping_Online.exe
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\20521587_TH02_Shopping_Online.pdb
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\_20521587_TH02_Shopping_Online.Product.resources
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\_20521587_TH02_Shopping_Online.UI.fShopping.resources
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\_20521587_TH02_Shopping_Online.UI.fProduct.resources
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\_20521587_TH02_Shopping_Online.UI.fCart.resources
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\_20521587_TH02_Shopping_Online.UI.fPurchase.resources
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\_20521587_TH02_Shopping_Online.fReportViewer.resources
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\RdlCompile.cache
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\RdlCompile.compiled
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.SqlServer.ConnectionDlg.AadAuthenticationProvider.dll
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.SqlServer.ConnectionDlg.Core.dll
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.SqlServer.ConnectionDlg.UI.dll
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.SqlServer.ConnectionDlg.VS.Azure.dll
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.SqlServer.ConnectionDlg.VS.dll
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.SqlServer.Data.Tools.ExceptionMessageBox.dll
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.SqlServer.FileSystemTask.dll
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.SqlServer.Tools.Extensibility.dll
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.Azure.Common.dll
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.Azure.ResourceManager.dll
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.Azure.Management.Sql.dll
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Hyak.Common.dll
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.Azure.Common.NetFramework.dll
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\EnvDTE.dll
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.VisualStudio.RpcContracts.dll
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\System.Collections.Immutable.dll
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\stdole.dll
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\System.Memory.dll
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\System.IO.Pipelines.dll
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.MSXML.dll
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\System.Buffers.dll
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.VisualStudio.GraphModel.xml
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\20521587_TH02_Shopping_Online.exe.config
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\20521587_TH02_Shopping_Online.csproj.CopyComplete
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\System.Data.SqlClient.dll
+C:\Users\VQ\OneDrive - gm.uit.edu.vn\3.1_CS511.N11_Csharp_ProgrammingLanguage\Practical_Assignment\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\System.Data.SqlClient.xml
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\20521587_TH02_Shopping_Online.exe.config
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\20521587_TH02_Shopping_Online.exe
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\20521587_TH02_Shopping_Online.pdb
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.SqlServer.ConnectionDlg.AadAuthenticationProvider.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.SqlServer.ConnectionDlg.Core.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.SqlServer.ConnectionDlg.UI.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.SqlServer.ConnectionDlg.VS.Azure.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.SqlServer.ConnectionDlg.VS.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.SqlServer.Data.Tools.ExceptionMessageBox.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.SqlServer.FileSystemTask.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\System.Data.SqlClient.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\EnvDTE.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.SqlServer.Tools.Extensibility.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.Azure.Common.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.Azure.ResourceManager.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.Azure.Management.Sql.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Hyak.Common.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.Azure.Common.NetFramework.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\stdole.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.VisualStudio.RpcContracts.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\System.Collections.Immutable.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.MSXML.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.Build.Framework.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\System.Memory.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\System.IO.Pipelines.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\System.Buffers.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\System.Data.SqlClient.xml
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.VisualStudio.GraphModel.xml
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\20521587_TH02_Shopping_Online.csproj.AssemblyReference.cache
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\20521587_TH02_Shopping_Online.exe.config
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\_20521587_TH02_Shopping_Online.fReportViewer.resources
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\_20521587_TH02_Shopping_Online.Product.resources
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\_20521587_TH02_Shopping_Online.Properties.Resources.resources
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\_20521587_TH02_Shopping_Online.UI.fCart.resources
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\_20521587_TH02_Shopping_Online.UI.fProduct.resources
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\_20521587_TH02_Shopping_Online.UI.fPurchase.resources
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\_20521587_TH02_Shopping_Online.UI.fShopping.resources
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\20521587_TH02_Shopping_Online.csproj.GenerateResource.cache
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\RdlCompile.cache
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\RdlCompile.compiled
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\20521587_TH02_Shopping_Online.csproj.CoreCompileInputs.cache
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\20521587_TH02_Shopping_Online.csproj.CopyComplete
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\20521587_TH02_Shopping_Online.exe
+C:\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\20521587_TH02_Shopping_Online.pdb
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\20521587_TH02_Shopping_Online.exe.config
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\20521587_TH02_Shopping_Online.exe
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\20521587_TH02_Shopping_Online.pdb
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.SqlServer.ConnectionDlg.AadAuthenticationProvider.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.SqlServer.ConnectionDlg.Core.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.SqlServer.ConnectionDlg.UI.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.SqlServer.ConnectionDlg.VS.Azure.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.SqlServer.ConnectionDlg.VS.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.SqlServer.Data.Tools.ExceptionMessageBox.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.SqlServer.FileSystemTask.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\System.Data.SqlClient.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\EnvDTE.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.SqlServer.Tools.Extensibility.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.Azure.Common.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.Azure.ResourceManager.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.Azure.Management.Sql.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Hyak.Common.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.Azure.Common.NetFramework.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\stdole.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.VisualStudio.RpcContracts.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\System.Collections.Immutable.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.MSXML.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.Build.Framework.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\System.Memory.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\System.IO.Pipelines.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\System.Buffers.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\System.Data.SqlClient.xml
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\Microsoft.VisualStudio.GraphModel.xml
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\20521587_TH02_Shopping_Online.csproj.AssemblyReference.cache
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\20521587_TH02_Shopping_Online.exe.config
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\_20521587_TH02_Shopping_Online.fReportViewer.resources
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\_20521587_TH02_Shopping_Online.Product.resources
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\_20521587_TH02_Shopping_Online.Properties.Resources.resources
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\_20521587_TH02_Shopping_Online.UI.fCart.resources
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\_20521587_TH02_Shopping_Online.UI.fProduct.resources
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\_20521587_TH02_Shopping_Online.UI.fPurchase.resources
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\_20521587_TH02_Shopping_Online.UI.fShopping.resources
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\20521587_TH02_Shopping_Online.csproj.GenerateResource.cache
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\RdlCompile.cache
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\RdlCompile.compiled
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\20521587_TH02_Shopping_Online.csproj.CoreCompileInputs.cache
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\20521587_TH02_Shopping_Online.csproj.CopyComplete
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\20521587_TH02_Shopping_Online.exe
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\20521587_TH02_Shopping_Online.pdb
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\obj\Debug\_20521587_TH02_Shopping_Online.UI.fHis.resources
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\AForge.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\AForge.Video.DirectShow.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\AForge.Video.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\zxing.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\zxing.presentation.dll
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\AForge.xml
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\AForge.Video.xml
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\AForge.Video.DirectShow.xml
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\zxing.xml
+C:\csharp\20521587_TH02_Shopping_Online\20521587_TH02_Shopping_Online\bin\Debug\zxing.presentation.xml
