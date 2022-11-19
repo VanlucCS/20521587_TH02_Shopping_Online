@@ -1,0 +1,142 @@
+-- HOTEN : TRAN VAN lUC     MSSV : 20521587
+--TAO DATABASE Shopping 
+CREATE DATABASE Shopping
+
+USE [Shopping]
+--Drop TABLE SANPHAM(
+
+CREATE TABLE SANPHAM(
+	MASP		char(4),
+	TENSP		nvarchar(50),
+	PHANLOAI	varchar(30),
+	TRIGIA		int,
+	XUATXU		nvarchar(60),
+	HSD			smalldatetime,
+	NSX			smalldatetime,
+	SOLUONG		int,
+	THONGTIN	nvarchar(200),	
+);
+SET DATEFORMAT DMY;
+--INSERT INTO SANPHAM VALUES('SP01','a','Thuc An','400000',N'Việt Nam','30/11/2020','5/11/2022','100','');
+--INSERT INTO SANPHAM VALUES('SP02','b','Sach','5000',N'Việt Nam','30/11/2020','5/11/2022','100','');
+--INSERT INTO SANPHAM VALUES('SP03','c','Thuc An','50000',N'Việt Nam','30/11/2020','5/11/2022','100','');
+INSERT INTO SANPHAM VALUES('SP04',N'táo','Thuc An','50000',N'Việt Nam','30/11/2020','5/11/2022','100','');
+INSERT INTO SANPHAM VALUES('SP05',N'Xoài','Thuc An','50000',N'Việt Nam','30/11/2020','5/11/2022','100','');
+INSERT INTO SANPHAM VALUES('SP06',N'Măng cụt','Thuc An','50000',N'Việt Nam','30/11/2020','5/11/2022','100','');
+INSERT INTO SANPHAM VALUES('SP07',N'Du Đủ','Thuc An','50000',N'Việt Nam','30/11/2020','5/11/2022','100','');
+INSERT INTO SANPHAM VALUES('SP08',N'Đào tiên','Thuc An','50000',N'Việt Nam','30/11/2020','5/11/2022','100','');
+INSERT INTO SANPHAM VALUES('SP09',N'Dứa','Thuc An','50000',N'Việt Nam','30/11/2020','5/11/2022','100','');
+INSERT INTO SANPHAM VALUES('SP10',N'Dâu campuchia','Thuc An','50000',N'Việt Nam','30/11/2020','5/11/2022','100','');
+INSERT INTO SANPHAM VALUES('SP11',N'Bơ Thái lan','Thuc An','50000',N'Việt Nam','30/11/2020','5/11/2022','100','');
+INSERT INTO SANPHAM VALUES('SP12',N'Dưa hấu mỹ tho','Thuc An','50000',N'Việt Nam','30/11/2020','5/11/2022','100','');
+INSERT INTO SANPHAM VALUES('SP13',N'Chuối Tam đảo','Thuc An','50000',N'Việt Nam','30/11/2020','5/11/2022','100','');
+INSERT INTO SANPHAM VALUES('SP14',N'Dưa Ganggg','Thuc An','50000',N'Việt Nam','30/11/2020','5/11/2022','100','');
+INSERT INTO SANPHAM VALUES('SP15',N'Nho phú quốc','Thuc An','50000',N'Việt Nam','30/11/2020','5/11/2022','100','');
+
+INSERT INTO SANPHAM VALUES('SP16',N'Chinh Phục 4 Kỹ Năng Tiếng Anh','Sach','72000',N'NXB Đại Học Quốc Gia Hà Nội','01/01/2021','5/11/2022','100',N'Tác giả: Bùi Văn Vinh - Dương Thị Hồng Điệp - Thái Vân Anh - Đỗ Thị Lan Anh - Phan Tự Hưng , Phát hành: Minh Thắng , Số trang: 168 trang');
+INSERT INTO SANPHAM VALUES('SP17',N'Đọc Nhiều Nhớ Được Bao Nhiêu','Sach','94400',N'Việt nam','01/01/2022','5/11/2022','100',N'NXB Dân Trí , Tác giả: Zion Kabasawa , Số trang: 240');
+
+INSERT INTO SANPHAM VALUES('SP18',N'Đọc Vị Bất Kỳ Ai','Sach','55300',N'Việt nam','01/01/2010','5/11/2022','100',N'Tác giả: TS. David J. Lieberman , Nhà phát hành: Thái Hà , Số trang: 236');
+INSERT INTO SANPHAM VALUES('SP19',N'Đời Ngắn Đừng Ngủ Dài','Sach','60000',N'Việt nam','01/01/2018','5/11/2022','100',N'Tác giả	Robin Sharma , Dịch Giả	Phạm Anh Tuấn , Số trang : 228');
+INSERT INTO SANPHAM VALUES('SP20',N'Hướng Nội Sức Mạnh Tiềm Ẩn Trong Bán Hàng','Sach','45000',N'Việt nam','01/01/2018','5/11/2022','100',N'Tác giả : Sean Lim , Dịch giả :Lê Thiện , Nhà xuất bản: Thanh Niên , Số trang : 280 ');
+INSERT INTO SANPHAM VALUES('SP21',N'Kỹ Năng Đọc Sách Hiệu Quả','Sach','94000',N'Việt nam','01/01/2019','5/11/2022','100',N'Công ty phát hành: 1980 Books , Tác giả: Yuji Akaba , Số trang: 22');
+INSERT INTO SANPHAM VALUES('SP22',N'Kỹ Năng Đọc Thông Minh','Sach','72000',N'Việt nam','01/01/2021','5/11/2022','100',N'Tác giả   Instant Research Institude , Nhà xuất bản	NXB Thanh Niên , Số trang	272');
+INSERT INTO SANPHAM VALUES('SP23',N'Lần đầu làm mẹ','Sach','150000',N'Việt nam','01/01/2021','5/11/2022','100',N'Tác giả Masato Takeuchi , Nhà xuất bản	Nhà Xuất Bản Lao Động , Số trang 340');
+INSERT INTO SANPHAM VALUES('SP24',N'Mỗi Lần Vấp Ngã Là Một Lần Trưởng Thành','Sach','79000',N'Việt nam','01/01/2021','5/11/2022','100',N'Tác giả :Minh Long , Số trang : 208');
+INSERT INTO SANPHAM VALUES('SP25',N'Rèn luyện tư duy phản biện','Sach','120000',N'Việt nam','01/01/2021','5/11/2022','100',N'Tác giả: Shannon Thomas, LCSW , Kích thước khổ:13x20x5 , Số trang: 328 ');
+INSERT INTO SANPHAM VALUES('SP26',N'Sách Đắc Nhân Tâm','Sach','80000',N'Việt nam','01/01/2021','5/11/2022','100',N'Tác giả	Dale Carnegie , Nhà xuất bản	Nhà Xuất Bản Tổng hợp TP.HCM , Số trang	320');
+INSERT INTO SANPHAM VALUES('SP27',N'Sách Thỏ Bảy Màu Và Những Người Nghĩ Nó Là Bạn','Sach','99000',N'Việt nam','01/01/2021','5/11/2022','100',N'Tác giả: Huỳnh Thái Ngọc , Nhà xuất bản: NXB Dân Trí , Số trang: 160');
+INSERT INTO SANPHAM VALUES('SP28',N'Sách Tuổi Trẻ Đáng Giá Bao Nhiêu','Sach','75000',N'Việt nam','01/01/2021','5/11/2022','100',N'Tác giả	Rosie Nguyễn , Nhà xuất bản	Nhà Xuất Bản Hội Nhà Văn , Số trang	285');
+INSERT INTO SANPHAM VALUES('SP29',N'Suy Nghĩ Ngược','Sach','72000',N'Việt nam','01/01/2021','5/11/2022','100',N'Tác giả	Shiratori Haruhiko , Người dịch: Yên Châu , Nhà Phát Hành	Tân Việt , Loại phiên bản	Phiên bản thông thường');
+INSERT INTO SANPHAM VALUES('SP30',N'Thao túng tâm lý ','Sach','155000',N'Việt nam','01/01/2021','5/11/2022','100',N'Tác giả: Shannon Thomas, LCSW , Dịch giả: Trương Tuấn , Số trang: 328');
+INSERT INTO SANPHAM VALUES('SP31',N'Tô Bình Yên','Sach','99000',N'Việt nam','01/01/2021','5/11/2022','100',N'Tác giả: Kulzsc , Thương hiệu: Skybooks , Nhà xuất bản: Nhà Xuất Bản Phụ Nữ Việt Nam');
+INSERT INTO SANPHAM VALUES('SP32',N'Tôi Ước Mình Chưa Từng Được Sinh Ra','Sach','99000',N'Việt nam','01/01/2021','5/11/2022','100',N'Tác giả: Yim Minkyung , Dịch giả: Hạ Chi , Nhà xuất bản: NXB Dân Trí ,Số trang: 192 trang');
+
+delete from SANPHAM where MASP ='SP03'
+
+Drop TABLE CART
+
+CREATE TABLE CART(
+	MASP	char(4),
+	SOLUONG int,
+);
+INSERT INTO CART VALUES('SP05','20');
+
+drop table VIEWEDPRODUCTS
+Create table VIEWEDPRODUCTS(
+	MASP	char(4),
+	THOIGIAN smalldatetime,
+);
+SET DATEFORMAT DMY;
+INSERT INTO VIEWEDPRODUCTS VALUES('SP04','5/11/2022');
+INSERT INTO VIEWEDPRODUCTS VALUES('SP07','6/11/2022');
+INSERT INTO VIEWEDPRODUCTS VALUES('SP08','6/11/2022');
+INSERT INTO VIEWEDPRODUCTS VALUES('SP05','6/11/2022');
+INSERT INTO VIEWEDPRODUCTS VALUES('SP07','6/11/2022');
+
+drop table PURCHASED
+Create table PURCHASED(
+	MAKH			char(4),
+	TENKH			nvarchar(100),
+	TENNV			nvarchar(50),
+	MASP			char(4),
+	MAHD			char(4),
+	SOHD			int,
+	TENSP			nvarchar(100),
+	SOLUONG			int,
+	TT				int,
+	DIACHI			nvarchar(100),
+	VANCHUYEN		nvarchar(50),
+	MESS			nvarchar(100),
+	VOURCHER		nvarchar(50),
+	TIENHANG		float,
+	PHIVANCHUYEN	float,
+	GIAMGIA			float,
+	VAT				float,
+	TONGTHANHTOAN	float,
+	THOIGIANMUA smalldatetime,
+);
+	--BARCODE nvarchar(10) -- MAHD
+SET DATEFORMAT DMY;
+INSERT INTO PURCHASED VALUES('KH01','tran vanluc','luc','SP04','HD01','1','abc','2','2000','Daklak','giaohangnhanh','giao nhanh giup a','V001','200000','50000','0','0','250000','5/11/2022');
+INSERT INTO PURCHASED VALUES('KH01','tran vanluc','SP05','HD01','1','Daklak','giaohangnhanh','giao nhanh giup a','V001','200000','50000','0','0','250000','5/11/2022');
+--INSERT INTO PURCHASED VALUES('SP06','6/11/2022');
+
+-- danh gia san pham
+drop TABLE DANHGIA
+CREATE TABLE DANHGIA(
+	MASP	char(4),
+	VOTE	int,
+	DG nvarchar(200),
+);
+INSERT INTO DANHGIA VALUES('SP07','4','san pham tot');
+INSERT INTO DANHGIA VALUES('SP05','5','chat luog san pham tot');
+
+
+delete from SANPHAM where TRIGIA >0
+--Mergdata
+GO
+Drop table CART_1
+SELECT *
+INTO CART_1
+FROM CART
+Truncate table CART
+INSERT INTO CART (MASP, SOLUONG)
+SELECT MASP, SUM(SOLUONG) AS SOLUONG FROM CART_1 GROUP BY MASP
+GO
+
+-- select top 5 from bottom
+SELECT DISTINCT TOP 5 MASP, MAX(THOIGIAN) 
+FROM VIEWEDPRODUCTS 
+GROUP BY MASP 
+ORDER BY MAX(THOIGIAN) DESC, MASP
+-- update số lượng sản phẩm từ giỏ hàng
+DECLARE @MAMUA char(4)
+UPDATE SANPHAM SET SOLUONG = SOLUONG - 1 WHERE MASP = @MAMUA
+
+
+--- already sell
+DELETE FROM CART WHERE MASP = @MASP;
+
+
+SELECT * FROM PURCHASED
