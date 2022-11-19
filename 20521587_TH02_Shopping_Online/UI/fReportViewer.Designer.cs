@@ -34,10 +34,11 @@ namespace _20521587_TH02_Shopping_Online
             // 
             // reportViewer1
             // 
-            this.reportViewer1.Location = new System.Drawing.Point(0, 3);
+            this.reportViewer1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.reportViewer1.Location = new System.Drawing.Point(0, 0);
             this.reportViewer1.Name = "reportViewer1";
             this.reportViewer1.ServerReport.BearerToken = null;
-            this.reportViewer1.Size = new System.Drawing.Size(932, 650);
+            this.reportViewer1.Size = new System.Drawing.Size(934, 655);
             this.reportViewer1.TabIndex = 0;
             this.reportViewer1.Load += new System.EventHandler(this.reportViewer1_Load_1);
             // 
@@ -49,7 +50,7 @@ namespace _20521587_TH02_Shopping_Online
             this.Controls.Add(this.reportViewer1);
             this.Name = "fReportViewer";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "fReportViewer";
+            this.Text = "Hóa đơn";
             this.Load += new System.EventHandler(this.fReportViewer_Load);
             this.ResumeLayout(false);
 

@@ -39,6 +39,8 @@ namespace _20521587_TH02_Shopping_Online.UI
             dataGridView1.Columns["GIAMGIA"].Width= 80;
             dataGridView1.Columns["MAHD"].Width= 50;
             dataGridView1.Columns["VAT"].Width= 40;
+            dataGridView1.Columns["TONGTHANHTOAN"].Width= 120;
+            dataGridView1.Columns["PHIVANCHUYEN"].Width= 120;
             dataGridView1.Columns["DIACHI"].Width= 200;
             dataGridView1.Columns["TT"].DefaultCellStyle.Format = "N0";
             dataGridView1.Columns["TIENHANG"].DefaultCellStyle.Format = "N0";
@@ -58,6 +60,16 @@ namespace _20521587_TH02_Shopping_Online.UI
             dataGridView1.Columns.Add(GvCheckBox);
             dataGridView1.Columns["DANHGIASP"].DisplayIndex = 0 ;
             dataGridView1.Columns["DANHGIASP"].Width = 50;
+
+
+            dt.Columns["TENSP"].ColumnName = "Tên SP";
+            dt.Columns["DIACHI"].ColumnName = "Địa Chỉ";
+            dt.Columns["VANCHUYEN"].ColumnName = "Vận Chuyển";
+            dt.Columns["TIENHANG"].ColumnName = "TIỀN HÀNG";
+            dt.Columns["TONGTHANHTOAN"].ColumnName = "Tổng Thanh Toán";
+            dt.Columns["PHIVANCHUYEN"].ColumnName = "Phí vận chuyển";
+            dt.Columns["THOIGIANMUA"].ColumnName = "Thời gian mua";
+
             //dataGridView1.Columns["DANHGIASP"].ven = 50;
             //dataGridView1.Columns["DANHGIASP"]. = 50;
 

@@ -164,8 +164,8 @@ namespace _20521587_TH02_Shopping_Online.UI
                 pBLL.MAKH = "KH" + pBLL.SOHD.ToString();
                 pBLL.MAHD = "HD" + pBLL.SOHD.ToString();
             }
-            pBLL.TENKH = "Khach hang A";
-            pBLL.TENNV = "Nhan vien B";
+            pBLL.TENKH = textBox4.Text;
+            pBLL.TENNV = "Văn Lực";
             pBLL.DIACHI = textBox1.Text;
             pBLL.VANCHUYEN = comboBox1.Text;
             pBLL.MESS = textBox2.Text;
@@ -223,6 +223,16 @@ namespace _20521587_TH02_Shopping_Online.UI
             label14.Text = string.Format("{0:N0}", phiVanChuyen);
             float tongThanhToan = float.Parse(label13.Text.Replace(",", "")) + float.Parse(phiVanChuyen.ToString()) + float.Parse((float.Parse(label13.Text.Replace(",", "")) * 0.05).ToString());
             label3.Text = string.Format("{0:N0}", int.Parse(tongThanhToan.ToString()));
+        }
+
+        private void textBox4_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox5_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
