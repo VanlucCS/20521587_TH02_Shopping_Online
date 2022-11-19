@@ -101,7 +101,7 @@ namespace _20521587_TH02_Shopping_Online.DAL
                     if (cnn.State == ConnectionState.Closed)
                     {
                         cnn.Open();
-                        using (SqlCommand cmd = new SqlCommand(@"SELECT DISTINCT TOP 5 MASP, MAX(THOIGIAN) 
+                        using (SqlCommand cmd = new SqlCommand(@"SELECT DISTINCT TOP 6 MASP, MAX(THOIGIAN) 
                                                                 FROM VIEWEDPRODUCTS 
                                                                 GROUP BY MASP 
                                                                 ORDER BY MAX(THOIGIAN) DESC, MASP", cnn))

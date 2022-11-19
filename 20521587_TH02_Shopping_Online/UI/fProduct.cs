@@ -18,21 +18,59 @@ namespace _20521587_TH02_Shopping_Online.UI
 {
     public partial class fProduct : Form
     {
-        string PID = "SP01";
+        string PID = "SP05";
         int soluong = 1;
-        DataTable dt = new DataTable(); 
+        DataTable dt = new DataTable();
         DataTable dt_cart = new DataTable();
         ResourceManager rm = new ResourceManager("_20521587_TH02_Shopping_Online.Product",
             Assembly.GetExecutingAssembly());
-        
+
         ShoppingDAL sdal = new ShoppingDAL();
         CartDAL cartdal = new CartDAL();
         ShoppingDAL shoppingdal = new ShoppingDAL();
+        DataTable dt_review = new DataTable();
+        ReviewDAL rdal = new ReviewDAL();
 
         public fProduct(string ProductID)
         {
             InitializeComponent();
+            setimage(1,1,1,0,0);
+            dt_review = rdal.Select();
+            float advote = 5;
+            int numpp = 1;
+            for (int i = 0; i < dt_review.Rows.Count; i++)
+            {
+                if (dt_review.Rows[i][0].ToString() == ProductID)
+                {
+                    richTextBox1.AppendText("\n USER: " + numpp.ToString() + "\n" + "\t" + dt_review.Rows[i][2].ToString());
+                    advote = (advote + float.Parse(dt_review.Rows[i][1].ToString())) / 2;
+                    numpp++;
+                }
+            }
             PID = ProductID;
+            //MessageBox.Show(advote.ToString());
+            int v = (int)advote;
+            //MessageBox.Show(v.ToString());
+            if (v == 1)
+                setimage(0, 0, 0, 0, 0);
+            else if (v == 1)
+                setimage(1, 0, 0, 0, 0);
+
+            else
+                    if (v == 2)
+                setimage(1, 1, 0, 0, 0);
+
+            else
+                        if (v == 3)
+                setimage(1, 1, 1, 0, 0);
+
+            else
+                             if (v == 4)
+                setimage(1, 1, 1, 1, 0);
+
+            else
+                setimage(1, 1, 1, 1,1);
+
 
             dt = sdal.Select();
             dt_cart = cartdal.Select();
@@ -42,13 +80,13 @@ namespace _20521587_TH02_Shopping_Online.UI
                 if (row[0].ToString() == PID)
                 {
                     lname.Text = row[1].ToString();
-                    lcost.Text = string.Format("{0:N0}",int.Parse( row[3].ToString()));
+                    lcost.Text = string.Format("{0:N0}", int.Parse(row[3].ToString()));
                     lcostmax.Text = string.Format("{0:N0}", int.Parse(row[3].ToString()) * 2);
                     List<string> d = new List<string>();
                     d = row[8].ToString().Split(',').ToList();
                     foreach (string item in d)
                     {
-                        richTextBox2.AppendText(item +"\n");
+                        richTextBox2.AppendText(item + "\n");
 
                     }
 
@@ -57,8 +95,8 @@ namespace _20521587_TH02_Shopping_Online.UI
                     hsd.Text = row[5].ToString();
                     nsx.Text = row[6].ToString();
                     lsoluong.Text = row[7].ToString();
-                    break;                
-                }    
+                    break;
+                }
             }
             pictureBox1.Image = (Image)rm.GetObject(PID);
         }
@@ -76,9 +114,9 @@ namespace _20521587_TH02_Shopping_Online.UI
         private void btCart_Click(object sender, EventArgs e)
         {
             // trường hợp chọn số lượng chọn nhiều hơn hiện có
-            if(int.Parse(tbsoluong.Text) > int.Parse(lsoluong.Text))
+            if (int.Parse(tbsoluong.Text) > int.Parse(lsoluong.Text))
             {
-                MessageBox.Show("số lượng bạn chọn lớn hơn số hàng tồn tại trong kho hiện tại","Cháy hàng",MessageBoxButtons.OK);
+                MessageBox.Show("số lượng bạn chọn lớn hơn số hàng tồn tại trong kho hiện tại", "Cháy hàng", MessageBoxButtons.OK);
                 return;
             }
             ProductBLL p = new ProductBLL();
@@ -107,15 +145,15 @@ namespace _20521587_TH02_Shopping_Online.UI
 
         private void bAdd_Click(object sender, EventArgs e)
         {
-            if(soluong+1 <= int.Parse(lsoluong.Text))
+            if (soluong + 1 <= int.Parse(lsoluong.Text))
                 soluong = soluong + 1;
             tbsoluong.Text = soluong.ToString();
         }
 
         private void bSub_Click(object sender, EventArgs e)
         {
-            if (soluong-1> 0)
-                soluong= soluong -1;
+            if (soluong - 1 > 0)
+                soluong = soluong - 1;
             tbsoluong.Text = soluong.ToString();
 
         }
@@ -134,6 +172,33 @@ namespace _20521587_TH02_Shopping_Online.UI
         private void pictureBox3_Click(object sender, EventArgs e)
         {
 
+        }
+        private void setimage(int a, int b, int c, int d, int e)
+        {
+            pictureBox9.Image = _20521587_TH02_Shopping_Online.Properties.Resources.star__2_;
+            pictureBox10.Image = _20521587_TH02_Shopping_Online.Properties.Resources.star__2_;
+            pictureBox11.Image = _20521587_TH02_Shopping_Online.Properties.Resources.star__2_;
+            pictureBox12.Image = _20521587_TH02_Shopping_Online.Properties.Resources.star__2_;
+            pictureBox13.Image = _20521587_TH02_Shopping_Online.Properties.Resources.star__2_;
+            if (e == 0)
+                pictureBox9.Image = _20521587_TH02_Shopping_Online.Properties.Resources.star__3_;
+            if (d == 0)
+                pictureBox10.Image = _20521587_TH02_Shopping_Online.Properties.Resources.star__3_;
+            if (c == 0)
+
+                pictureBox11.Image = _20521587_TH02_Shopping_Online.Properties.Resources.star__3_;
+            if (b == 0)
+
+                pictureBox12.Image = _20521587_TH02_Shopping_Online.Properties.Resources.star__3_;
+            if (a == 0)
+                pictureBox13.Image = _20521587_TH02_Shopping_Online.Properties.Resources.star__3_;
+
+
+            pictureBox14.Image = pictureBox9.Image;
+            pictureBox15.Image = pictureBox10.Image;
+            pictureBox16.Image = pictureBox11.Image;
+            pictureBox17.Image = pictureBox12.Image;
+            pictureBox18.Image = pictureBox13.Image;
         }
     }
 }

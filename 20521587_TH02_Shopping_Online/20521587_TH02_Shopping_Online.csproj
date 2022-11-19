@@ -92,12 +92,14 @@
   <ItemGroup>
     <Compile Include="BLL\ProductBLL.cs" />
     <Compile Include="BLL\PurchasedBLL.cs" />
+    <Compile Include="BLL\ReviewBLL.cs" />
     <Compile Include="BLL\ViewedProductsBLL.cs" />
     <Compile Include="CButton.cs">
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="DAL\CartDAL.cs" />
     <Compile Include="DAL\PurchasedDAL.cs" />
+    <Compile Include="DAL\ReviewDAL.cs" />
     <Compile Include="DAL\ShoppingDAL.cs" />
     <Compile Include="DAL\ViewedProductsDAL.cs" />
     <Compile Include="DataSet.cs">
@@ -146,6 +148,12 @@
     <Compile Include="UI\fPurchase.Designer.cs">
       <DependentUpon>fPurchase.cs</DependentUpon>
     </Compile>
+    <Compile Include="UI\fReview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\fReview.Designer.cs">
+      <DependentUpon>fReview.cs</DependentUpon>
+    </Compile>
     <Compile Include="UI\fShopping.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -181,6 +189,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="UI\fPurchase.resx">
       <DependentUpon>fPurchase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\fReview.resx">
+      <DependentUpon>fReview.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="UI\fShopping.resx">
       <DependentUpon>fShopping.cs</DependentUpon>
@@ -321,6 +332,8 @@
     <None Include="Resources\tobinhyen.jpg" />
     <None Include="Resources\toiuocminhchuatungduocsinhra.jpg" />
     <None Include="Resources\history.png" />
+    <None Include="Resources\star %283%29.png" />
+    <None Include="Resources\star %282%29.png" />
     <Content Include="SqlServerTypes\readme.htm" />
     <Content Include="SqlServerTypes\x64\msvcr120.dll">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>

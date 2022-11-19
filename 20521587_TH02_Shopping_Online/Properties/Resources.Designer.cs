@@ -213,6 +213,26 @@ namespace _20521587_TH02_Shopping_Online.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap star__2_ {
+            get {
+                object obj = ResourceManager.GetObject("star (2)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap star__3_ {
+            get {
+                object obj = ResourceManager.GetObject("star (3)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap trahang {
             get {
                 object obj = ResourceManager.GetObject("trahang", resourceCulture);

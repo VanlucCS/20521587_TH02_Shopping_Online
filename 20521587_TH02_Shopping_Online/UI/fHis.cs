@@ -51,8 +51,23 @@ namespace _20521587_TH02_Shopping_Online.UI
             dataGridView1.Columns["GIAMGIA"].DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleCenter;
             dataGridView1.Columns["VAT"].DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleCenter;
             //GroupByGrid gr = new GroupByGrid();
+            DataGridViewButtonColumn GvCheckBox = new DataGridViewButtonColumn();
+            GvCheckBox.HeaderText = "ĐÁNH GIÁ SP";
+            GvCheckBox.Name = "DANHGIASP";
+            GvCheckBox.UseColumnTextForButtonValue = true;
+            dataGridView1.Columns.Add(GvCheckBox);
+            dataGridView1.Columns["DANHGIASP"].DisplayIndex = 0 ;
+            dataGridView1.Columns["DANHGIASP"].Width = 50;
+            //dataGridView1.Columns["DANHGIASP"].ven = 50;
+            //dataGridView1.Columns["DANHGIASP"]. = 50;
 
-            
+            //dataGridView1.Columns["DANHGIASP"].DefaultCellStyle.NullValue = "abc";
+            //foreach (DataGridViewRow c in dataGridView1.Rows)
+            //{
+            //    c.Cells["DANHGIASP"].Value = "a";
+            //}
+
+
 
         }
 
@@ -160,6 +175,22 @@ namespace _20521587_TH02_Shopping_Online.UI
         private void Search_Mahd(string mahd)
         {
 
+        }
+
+        private void dataGridView1_DefaultValuesNeeded(object sender, DataGridViewRowEventArgs e)
+        {
+            //e.Row.Cells["DANHGIASP"].Value = "VOTE";
+        }
+
+        private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            if(e.ColumnIndex==0)
+            {
+
+                fReview f = new fReview(dataGridView1.Rows[e.RowIndex].Cells["MASP"].Value.ToString());
+                f.ShowDialog();
+                dataGridView1.Rows[e.RowIndex].Cells[e.ColumnIndex].Style.BackColor =Color.White ;
+            }   
         }
     }
 }

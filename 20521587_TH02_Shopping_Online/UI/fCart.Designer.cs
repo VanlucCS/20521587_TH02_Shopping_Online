@@ -33,7 +33,6 @@ namespace _20521587_TH02_Shopping_Online.UI
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
             this.checkBox1 = new System.Windows.Forms.CheckBox();
             this.label4 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
@@ -85,16 +84,6 @@ namespace _20521587_TH02_Shopping_Online.UI
             this.label3.TabIndex = 6;
             this.label3.Text = "0.000";
             this.label3.Click += new System.EventHandler(this.label3_Click);
-            // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(760, 512);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(95, 37);
-            this.button1.TabIndex = 7;
-            this.button1.Text = "Mua hàng ";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // checkBox1
             // 
@@ -158,7 +147,6 @@ namespace _20521587_TH02_Shopping_Online.UI
             this.Controls.Add(this.cButton2);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.checkBox1);
-            this.Controls.Add(this.button1);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
@@ -182,7 +170,6 @@ namespace _20521587_TH02_Shopping_Online.UI
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Button button1;
         private System.Windows.Forms.CheckBox checkBox1;
         private System.Windows.Forms.Label label4;
         private CButton cButton2;

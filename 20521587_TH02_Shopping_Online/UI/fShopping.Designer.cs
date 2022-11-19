@@ -106,13 +106,13 @@ namespace _20521587_TH02_Shopping_Online.UI
             this.panel1.Controls.Add(this.label1);
             this.panel1.Location = new System.Drawing.Point(12, 3);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(986, 603);
+            this.panel1.Size = new System.Drawing.Size(1150, 698);
             this.panel1.TabIndex = 20;
             // 
             // pictureBox3
             // 
             this.pictureBox3.Image = global::_20521587_TH02_Shopping_Online.Properties.Resources.history;
-            this.pictureBox3.Location = new System.Drawing.Point(812, 27);
+            this.pictureBox3.Location = new System.Drawing.Point(930, 34);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(50, 50);
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -134,9 +134,9 @@ namespace _20521587_TH02_Shopping_Online.UI
             // 
             this.listView2.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.listView2.HideSelection = false;
-            this.listView2.Location = new System.Drawing.Point(3, 708);
+            this.listView2.Location = new System.Drawing.Point(3, 705);
             this.listView2.Name = "listView2";
-            this.listView2.Size = new System.Drawing.Size(954, 215);
+            this.listView2.Size = new System.Drawing.Size(1127, 213);
             this.listView2.TabIndex = 0;
             this.listView2.UseCompatibleStateImageBehavior = false;
             this.listView2.SelectedIndexChanged += new System.EventHandler(this.listView2_SelectedIndexChanged);
@@ -153,7 +153,7 @@ namespace _20521587_TH02_Shopping_Online.UI
             this.cButton2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.cButton2.Font = new System.Drawing.Font("Tahoma", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cButton2.ForeColor = System.Drawing.Color.White;
-            this.cButton2.Location = new System.Drawing.Point(917, 15);
+            this.cButton2.Location = new System.Drawing.Point(1058, 22);
             this.cButton2.Name = "cButton2";
             this.cButton2.Size = new System.Drawing.Size(30, 30);
             this.cButton2.TabIndex = 36;
@@ -165,7 +165,7 @@ namespace _20521587_TH02_Shopping_Online.UI
             // pictureBox8
             // 
             this.pictureBox8.Image = global::_20521587_TH02_Shopping_Online.Properties.Resources.shopping_cart;
-            this.pictureBox8.Location = new System.Drawing.Point(886, 27);
+            this.pictureBox8.Location = new System.Drawing.Point(1027, 34);
             this.pictureBox8.Name = "pictureBox8";
             this.pictureBox8.Size = new System.Drawing.Size(48, 48);
             this.pictureBox8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -178,7 +178,7 @@ namespace _20521587_TH02_Shopping_Online.UI
             this.panel3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.panel3.Controls.Add(this.textBox1);
             this.panel3.Controls.Add(this.cButton1);
-            this.panel3.Location = new System.Drawing.Point(299, 31);
+            this.panel3.Location = new System.Drawing.Point(370, 38);
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(507, 40);
             this.panel3.TabIndex = 24;
@@ -224,7 +224,7 @@ namespace _20521587_TH02_Shopping_Online.UI
             // 
             // panel2
             // 
-            this.panel2.Location = new System.Drawing.Point(19, 275);
+            this.panel2.Location = new System.Drawing.Point(7, 275);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(158, 258);
             this.panel2.TabIndex = 21;
@@ -254,9 +254,9 @@ namespace _20521587_TH02_Shopping_Online.UI
             this.listView1.BackColor = System.Drawing.Color.White;
             this.listView1.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.listView1.HideSelection = false;
-            this.listView1.Location = new System.Drawing.Point(190, 148);
+            this.listView1.Location = new System.Drawing.Point(134, 148);
             this.listView1.Name = "listView1";
-            this.listView1.Size = new System.Drawing.Size(760, 554);
+            this.listView1.Size = new System.Drawing.Size(1000, 554);
             this.listView1.TabIndex = 10;
             this.listView1.UseCompatibleStateImageBehavior = false;
             this.listView1.ItemSelectionChanged += new System.Windows.Forms.ListViewItemSelectionChangedEventHandler(this.listView1_ItemSelectionChanged);
@@ -278,7 +278,7 @@ namespace _20521587_TH02_Shopping_Online.UI
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(998, 618);
+            this.ClientSize = new System.Drawing.Size(1163, 702);
             this.Controls.Add(this.panel1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "fShopping";

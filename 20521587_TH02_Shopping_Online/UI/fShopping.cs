@@ -44,7 +44,7 @@ namespace _20521587_TH02_Shopping_Online.UI
             Load_Product();
             Load_HisProduct();
             // sửa kích thước control
-            listView1.Size = new Size(760, (dt.Rows.Count) / 4 * 240);
+            listView1.Size = new Size(1000, (dt.Rows.Count) / 5 * 270);
             listView2.Top = listView1.Top + listView1.Height + 20;
             label6.Top = listView2.Top - 25;
         }
@@ -52,9 +52,8 @@ namespace _20521587_TH02_Shopping_Online.UI
         {
             listView1.Clear();
             int count = 0;
-
             var imageList = new ImageList();
-            imageList.ImageSize = new Size(124, 124);
+            imageList.ImageSize = new Size(144, 144);
             listView1.View = View.LargeIcon;
             listView1.LabelWrap = true;
             listView1.Font = new Font("Microsoft Sans Serif", 14, FontStyle.Regular);
@@ -93,10 +92,10 @@ namespace _20521587_TH02_Shopping_Online.UI
 
             // thay đổi kích thước list viwe theo số lượng sản phẩm
 
-            int lvHeight = (count + 2) / 4;
+            int lvHeight = (count + 2) / 5;
             if (lvHeight < 3)
                 lvHeight = 3;
-            listView1.Size = new Size(760, lvHeight * 240);
+            listView1.Size = new Size(1000, lvHeight * 270);
             listView2.Top = listView1.Top + listView1.Height+20;
             label6.Top = listView2.Top - 25;
             Load_HisProduct();
@@ -146,7 +145,7 @@ namespace _20521587_TH02_Shopping_Online.UI
             //label2.ForeColor = Color.Black;
             //label2.Font = new Font("Microsoft Sans Serif", 14, FontStyle.Regular);
             label3.ForeColor = Color.Blue;
-            label3.Font = new Font("Tahoma", 14, FontStyle.Bold);
+            label3.Font = new Font("Tahoma", 14, FontStyle.Regular);
             label4.ForeColor = Color.Black;
             label4.Font = new Font("Tahoma", 14, FontStyle.Regular);
             Load_Product();
@@ -172,7 +171,7 @@ namespace _20521587_TH02_Shopping_Online.UI
             label3.ForeColor = Color.Black;
             label3.Font = new Font("Tahoma", 14, FontStyle.Regular);
             label4.ForeColor = Color.Blue;
-            label4.Font = new Font("Tahoma", 14, FontStyle.Bold);
+            label4.Font = new Font("Tahoma", 14, FontStyle.Regular);
             Load_Product();
         }
         ListViewItemMouseHoverEventArgs f = null;
