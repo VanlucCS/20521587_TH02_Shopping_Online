@@ -55,9 +55,9 @@ namespace _20521587_TH02_Shopping_Online
                 {
                     index = i;
                     DataRow dr = shop_data.AsEnumerable().SingleOrDefault(r => r.Field<string>("MASP") == data.Rows[i][3].ToString());
-                    dt.Rows.Add((dt.Rows.Count + 1).ToString(), dr[1].ToString(), data.Rows[i][7].ToString(), string.Format("{0:N0}", int.Parse(dr[3].ToString())), string.Format("{0:N0}", int.Parse( data.Rows[i][8].ToString()))+" đ");
+                    dt.Rows.Add((dt.Rows.Count + 1).ToString(), dr[1].ToString(), data.Rows[i][7].ToString(), string.Format("{0:N0}", int.Parse(dr[3].ToString())), string.Format("{0:N0}", int.Parse(data.Rows[i][8].ToString())) + " đ");
                 }
-                
+
             }
 
             reportViewer1.ProcessingMode = Microsoft.Reporting.WinForms.ProcessingMode.Local;
